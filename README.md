@@ -1,6 +1,6 @@
 - Hi, I’m @Christian-OHara
 - I’m interested in computer science and robotics.
-- I’m currently learning about python and app development for software engineering.
+- I’m currently learning about .NET and app development.
 - I’m looking to collaborate on research projects or anything to learn together with someone!
 - How to reach me: christianjohara@gmail.com
 
